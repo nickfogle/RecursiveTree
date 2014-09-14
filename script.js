@@ -44,4 +44,3 @@ var recursiveTree = function (ctx, startX, startY, length, angle, depth, branchW
 		recursiveTree(ctx, endX, endY, newLength, newAngle, newDepth, branchWidth);
 	}
 };
-		
