@@ -2,7 +2,7 @@ $(document).ready(function() {
 			var canvas = document.getElementById('forest');
 			if (canvas.getContext) {
 			var ctx = canvas.getContext("2d");
-					recursiveTree(ctx, 800, 485, 80, -Math.PI / 2, 13, 13);
+					recursiveTree(ctx, 685, 675, 80, -Math.PI / 2, 13, 13);
 				}
 			});
 
