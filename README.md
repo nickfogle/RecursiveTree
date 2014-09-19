@@ -1,6 +1,6 @@
 # Recursive Tree
 
-* Info:
+## Info:
 
 - HTML5 Canvas + JavaScript to draw a Recursive Tree 
 
@@ -8,7 +8,7 @@
 
 - More info on recursive trees - http://www.cs.cornell.edu/courses/cs3110/2012sp/lectures/lec20-master/lec20.html
 
-* Description:
+## Description:
 
 - Using a recursive function to draw a tree modifying the angles
 
