@@ -15,3 +15,15 @@
 - The number of iterations (recursive calls) is specified in script.js.
 
 - Be careful with too many iterations will send rendering browser speed to a grinding halt.
+
+## Compatibility:
+
+- Chrome
+
+- Safari
+
+- Firefox
+
+- Opera
+
+- IE 10+
